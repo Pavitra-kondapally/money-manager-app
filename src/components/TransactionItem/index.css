@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.list-details {
+  color: #334155;
+}
+
+.delete-image {
+  height: 20px;
+
+  width: 20px;
+}
+
+.each-transaction-item {
+  display: flex;
+
+  flex-direction: row;
+
+  border-style: groove;
+
+  border-width: 2px;
+}
+
+.last-column-container {
+  display: flex;
+
+  flex-direction: row;
+}
+
+.delete-btn {
+  border-width: 0px;
+
+  background-color: transparent;
+}

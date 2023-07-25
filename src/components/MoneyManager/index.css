@@ -1,0 +1,118 @@
+/* Write your CSS here */
+.container {
+  padding: 20px;
+
+  font-family: 'Roboto';
+}
+
+.profile-container {
+  height: 120px;
+
+  border-radius: 10px;
+
+  background-image: url(https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png);
+
+  background-size: cover;
+
+  padding: 10px;
+}
+
+.greeting-style {
+  color: #475569;
+}
+
+.desc-style {
+  color: #475569;
+}
+
+.app-style {
+  color: #0b69ff;
+}
+
+.transaction-heading {
+  color: #1e293b;
+}
+
+.title-style {
+  color: #334155;
+
+  margin-bottom: 10px;
+}
+
+.amount-style {
+  color: #334155;
+
+  margin-bottom: 10px;
+}
+
+.option {
+  color: #1e293b;
+}
+
+.add-btn {
+  height: 30px;
+
+  width: 80px;
+
+  border-radius: 5px;
+
+  background-color: #0b69ff;
+
+  color: #ffffff;
+
+  margin: 10px;
+}
+
+.list-heading-style {
+  color: #1e293b;
+}
+
+.money-details-container {
+  list-style: none;
+}
+
+.transaction-container {
+  display: flex;
+
+  flex-direction: row;
+
+  justify-content: space-around;
+}
+
+.table-header {
+  display: flex;
+
+  flex-direction: row;
+
+  border-style: groove;
+
+  border-width: 2px;
+}
+
+.list-heading-style {
+  margin: 20px;
+}
+
+.transaction-form {
+  border-style: groove;
+
+  padding: 10px;
+
+  border-width: 2px;
+
+  border-radius: 10px;
+}
+
+.history-container {
+  border-style: groove;
+
+  padding: 10px;
+
+  border-width: 2px;
+
+  border-radius: 10px;
+}
+
+.table-header {
+  margin-right: 25px;
+}

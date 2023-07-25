@@ -1,0 +1,96 @@
+/* Write your CSS here */
+.balance-tab {
+  height: 120px;
+
+  width: 250px;
+
+  border-radius: 10px;
+
+  border-color: #84cc16;
+
+  background-color: #ecfccb;
+
+  border-width: 2px;
+
+  border-style: solid;
+
+  margin: 10px;
+
+  display: flex;
+
+  flex-direction: row;
+
+  justify-content: space-between;
+
+  padding: 10px;
+}
+
+.image-in-tab {
+  height: 80px;
+
+  width: 80px;
+}
+
+.balance-text {
+  color: #84cc16;
+
+  font-family: 'Roboto';
+}
+
+.income-tab {
+  height: 120px;
+
+  width: 250px;
+
+  border-radius: 10px;
+
+  border-color: #06b6d4;
+
+  background-color: #cffafe;
+
+  border-width: 2px;
+
+  border-style: solid;
+
+  margin: 10px;
+
+  display: flex;
+
+  flex-direction: row;
+
+  justify-content: space-between;
+
+  padding: 10px;
+}
+
+.tabs-container {
+  display: flex;
+
+  flex-direction: row;
+}
+
+.expenses-tab {
+  height: 120px;
+
+  width: 250px;
+
+  border-radius: 10px;
+
+  border-color: #7c3aed;
+
+  background-color: #cbd5e1;
+
+  border-width: 2px;
+
+  border-style: solid;
+
+  margin: 10px;
+
+  display: flex;
+
+  flex-direction: row;
+
+  justify-content: space-between;
+
+  padding: 10px;
+}
